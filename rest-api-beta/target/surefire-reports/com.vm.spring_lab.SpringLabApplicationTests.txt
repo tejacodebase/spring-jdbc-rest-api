@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vm.spring_lab.SpringLabApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.123 s - in com.vm.spring_lab.SpringLabApplicationTests
