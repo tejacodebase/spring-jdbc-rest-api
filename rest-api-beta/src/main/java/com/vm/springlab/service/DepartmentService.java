@@ -5,7 +5,6 @@ import com.vm.springlab.exception.BadRequestException;
 import com.vm.springlab.exception.ResourceExistsException;
 import com.vm.springlab.exception.ResourceNotFoundException;
 import com.vm.springlab.repository.jdbc.DepartmentJDBCRepository;
-import com.vm.springlab.repository.mem.DepartmentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
