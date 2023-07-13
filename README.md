@@ -16,7 +16,7 @@ REST API using Spring Data JDBC
 ## SQL Queries for creating tables in the database
 **Employee**
 ```
-CREATE TABLE `lab`.`employee` (
+CREATE TABLE `your_db_name`.`employee` (
   `uuid` VARCHAR(40) NOT NULL,
   `first_name` VARCHAR(100) NULL,
   `last_name` VARCHAR(100) NULL,
@@ -29,7 +29,7 @@ CREATE TABLE `lab`.`employee` (
 ```
 **Department**
 ```
-CREATE TABLE `lab`.`department` (
+CREATE TABLE `your_db_name`.`department` (
   `uuid` VARCHAR(40) NOT NULL,
   `name` VARCHAR(100) NULL,
   `head_uuid` VARCHAR(40) NULL,
