@@ -1,3 +1,6 @@
+# REST API Project using Spring Data JDBC, Maven, Lombok, etc
+
+
 ## SETUP
 1. Provide database connetion properties in the application.properties, application-dev.properties, and application-qa.properties files. <br>
    Depending on the **VM Options** you set, the database connection details will be set either DEV or QA.
